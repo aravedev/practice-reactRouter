@@ -1,0 +1,14 @@
+.link {
+  margin-right: 5px;
+}
+
+.container {
+  display: flex;
+}
+
+img {
+  max-width: 100%;
+}
+.photo {
+  width: 30%;
+}
